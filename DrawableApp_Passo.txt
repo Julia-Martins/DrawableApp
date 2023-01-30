@@ -1,0 +1,15 @@
+Drawing App
+
+Snack Bars
+View Class to Manipulate
+
+Export the Images
+Import the Images
+async task
+
+Final Result of The App
+
+- Você poderá selecionar as cores no app
+- Você conseguirá mudar a grossura da pintura
+- Você vai poder importar imagens
+- Um botão de salvar e que irá exportar para um outro lugar
